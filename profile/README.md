@@ -1,4 +1,6 @@
 ## Hi there 👋
+https://github.com/Rascol-TNSI5/Web-Panel-API
+https://github.com/Rascol-TNSI5/Client-Logger
 
 <!--
 
